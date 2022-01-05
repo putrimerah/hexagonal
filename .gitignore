@@ -1,0 +1,17 @@
+# cultivation*
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+*.bin
+# process*.json
+*.env*
+*.sh
+
+# Folders
+_obj
+_test
+
+/build
+.idea
+.data
